@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.exe
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.deps.json
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.dll
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\bin\Debug\netcoreapp3.1\Homework_summ.pdb
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.dll
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.pdb
+C:\Users\Xiaomi\source\repos\Homework_summ\Homework_summ\obj\Debug\netcoreapp3.1\Homework_summ.genruntimeconfig.cache

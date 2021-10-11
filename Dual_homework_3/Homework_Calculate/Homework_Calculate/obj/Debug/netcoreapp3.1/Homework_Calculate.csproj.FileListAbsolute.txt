@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.exe
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.deps.json
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.dll
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\bin\Debug\netcoreapp3.1\Homework_Calculate.pdb
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.dll
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.pdb
+C:\Users\Xiaomi\source\repos\Homework_Calculate\Homework_Calculate\obj\Debug\netcoreapp3.1\Homework_Calculate.genruntimeconfig.cache
