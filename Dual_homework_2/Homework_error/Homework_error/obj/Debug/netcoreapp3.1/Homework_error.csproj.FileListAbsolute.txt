@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.exe
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.deps.json
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.dll
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\bin\Debug\netcoreapp3.1\Homework_error.pdb
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.dll
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.pdb
+C:\Users\Xiaomi\source\repos\Homework_error\Homework_error\obj\Debug\netcoreapp3.1\Homework_error.genruntimeconfig.cache
