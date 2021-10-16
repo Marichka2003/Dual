@@ -9,7 +9,7 @@ namespace Homework_struct_Dog
        public int age;
         public override string ToString()
         {
-            return string.Format("Override method ToString in struct");
+            return string.Format($"Dog is {name}, {mark}, {age}");
         }
     };
     
